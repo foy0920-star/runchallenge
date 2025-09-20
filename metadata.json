@@ -1,0 +1,5 @@
+{
+  "name": "손오공 런 챌린지",
+  "description": "A web application for the Son Goku Run Challenge, allowing participants to register, submit their runs, and view a competitive dashboard. The app is designed to be mobile-first and fast, with data managed locally.",
+  "requestFramePermissions": []
+}
